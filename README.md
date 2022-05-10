@@ -1,0 +1,2 @@
+# Connecting-Jupyter-to-Google-Earth-engine-the-perform-Linear-Regression-timeseries-NDVI
+Objectives: 1. This project sought to connect Jupyter notebook with Google earth engine.      2. import shapefiles and convert to jason file then to GEE GEOMETRY     3. PLOT to screen as it were for GEE     4. imoprt NDVI Collection from 1999 to 2017 from two seperate collections Landsat 5 and Landsat 7.     5. Merge the collection then create a monthly time series from them     6. Run a Logistic regression for the enter monthly NDVI
